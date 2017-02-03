@@ -34,7 +34,7 @@
         "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/ios/1.0.0.md",
         "version": "1.0.0"
       },{
-        "timestamp": "1486136328000",
+        "timestamp": "1486137180718",
         "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/ios/1.0.0.md",
         "version": "1.0.1"
       }
@@ -42,7 +42,7 @@
 
     "javascript": [
       {
-        "timestamp": "1483996914",
+        "timestamp": "1486137180718",
         "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/javascript/1.0.0.md",
         "version": "1.0.0"
       }
