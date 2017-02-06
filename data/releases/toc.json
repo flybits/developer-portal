@@ -93,24 +93,9 @@
         "version": "1.0.2"
       },
       {
-        "timestamp": "1486160380287",
+        "timestamp": "1486363605960",
         "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/javascript/1.0.0.md",
         "version": "1.0.3"
-      },
-      {
-        "timestamp": "1486362209179",
-        "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/javascript/1.0.0.md",
-        "version": "1.0.4"
-      },
-      {
-        "timestamp": "1486363367050",
-        "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/javascript/1.0.0.md",
-        "version": "1.0.5"
-      },
-      {
-        "timestamp": "1486362209179",
-        "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/javascript/1.0.0.md",
-        "version": "1.0.6"
       }
     ]
   }
