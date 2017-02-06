@@ -13,8 +13,8 @@
       },
       {
         "timestamp": "1484074255092",
-        "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/android/2.7.3.md",
-        "version": "2.7.3"
+        "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/android/2.7.4.md",
+        "version": "2.7.4"
       },
       {
         "timestamp": "1484074255092",
@@ -98,9 +98,14 @@
         "version": "1.0.3"
       },
       {
-        "timestamp": "1486361389338",
+        "timestamp": "1486362209179",
         "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/javascript/1.0.0.md",
         "version": "1.0.4"
+      },
+      {
+        "timestamp": "1486361389338",
+        "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/javascript/1.0.0.md",
+        "version": "1.0.5"
       }
     ]
   }
