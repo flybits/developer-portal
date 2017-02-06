@@ -50,29 +50,9 @@
         "version": "1.0.4"
       },
       {
-        "timestamp": "1486138771522",
+        "timestamp": "1486365441995",
         "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/ios/1.0.0.md",
         "version": "1.0.5"
-      },
-      {
-        "timestamp": "1486138771600",
-        "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/ios/1.0.0.md",
-        "version": "1.0.6"
-      },
-      {
-        "timestamp": "1486139366454",
-        "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/ios/1.0.0.md",
-        "version": "1.0.7"
-      },
-      {
-        "timestamp": "1486147289000",
-        "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/ios/1.0.0.md",
-        "version": "1.0.8"
-      },
-      {
-        "timestamp": "1486365011423",
-        "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/ios/1.0.0.md",
-        "version": "1.0.9"
       }
     ],
 
@@ -93,14 +73,9 @@
         "version": "1.0.3"
       },
       {
-        "timestamp": "1486364724441",
+        "timestamp": "1486365441995",
         "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/javascript/1.0.0.md",
         "version": "1.0.4"
-      },
-      {
-        "timestamp": "1486364996528",
-        "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/javascript/1.0.0.md",
-        "version": "1.0.5"
       }
     ]
   }
