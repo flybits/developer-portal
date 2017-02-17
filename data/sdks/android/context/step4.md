@@ -25,6 +25,8 @@ public class MainActivity extends AppCompatActivity {
             .setAccount(new AnonymousIDP())
             .addProjectID(BuildConfig.FLYBITS_PROJECT_ID)
             .build();
+            
+        manager.connect();    
     }
 }
 ```
