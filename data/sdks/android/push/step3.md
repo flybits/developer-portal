@@ -9,7 +9,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         
-        //If your app is supporting FCM
+        //If your app is supporting FCM (Remember to include your google-services.json)
         PushScope contextScope 
           = new PushScope(MainActivity.this); 
         
