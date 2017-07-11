@@ -1,3 +1,4 @@
+```swift
 import UIKit
 import ContextSDK
 
@@ -27,3 +28,4 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         return true
     }
 }
+```
