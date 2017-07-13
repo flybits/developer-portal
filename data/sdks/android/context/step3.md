@@ -9,7 +9,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
 
-        ContextScope contextScope 
+        ContextScope contextScope
           = new ContextScope(MainActivity.this, 1, TimeUnit.MINUTES, ContextPriority.HIGH) 
     }
 }  

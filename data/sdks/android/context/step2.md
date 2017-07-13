@@ -1,5 +1,5 @@
 ```gradle
 dependencies {
-    compile 'com.flybits.android:context:1.0.32'
+    compile 'com.flybits.v3:context:0.9.1'
 }
 ```

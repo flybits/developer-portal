@@ -16,16 +16,15 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
 
-        ContextScope contextScope 
+        ContextScope contextScope
             = new ContextScope(MainActivity.this, 1, TimeUnit.MINUTES, ContextPriority.HIGH);
-        
+
         FlybitsManager manager = new FlybitsManager.Builder(MainActivity.this)
             .addScope(contextScope)
-            .setDebug()
             .setAccount(new AnonymousIDP())
-            .addProjectID(BuildConfig.FLYBITS_PROJECT_ID)
+            .setDebug()
             .build();
-            
+
         manager.connect();    
     }
 }

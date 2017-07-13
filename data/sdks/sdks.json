@@ -4,9 +4,9 @@
 		sdks: {
 			'core' : {
 				id: 'core',
-				name: 'Kernal',
+				name: 'Kernel',
 				isActive: false,
-				description: 'The Kernal SDK contains all entities associated to Flybits Experiences and Content.',
+				description: 'The Kernel SDK contains all entities associated to Flybits Experiences and Content.',
 				content: [
 					{
 						description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
