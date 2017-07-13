@@ -20,8 +20,23 @@ public class MainActivity extends AppCompatActivity {
             .setAccount(new AnonymousIDP())
             .setDebug()
             .build();
+            
+        manager.connect(new ConnectionResultCallback() {
+            @Override
+            public void onConnected() {
+              //Indicates you are connected to Flybits
+            }
 
-        manager.connect();    
+            @Override
+            public void notConnected() {
+              //Indicates that you are not connected to Flybits
+            }
+
+            @Override
+            public void onException(FlybitsException exception) {
+              //Indicates that there was an issue when connecting to Flybits
+            }
+        });  
     }
 }
 ```
