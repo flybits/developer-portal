@@ -13,16 +13,14 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        PushScope pushScope 
-            = new PushScope(MainActivity.this);
-        
+        PushScope pushScope = new PushScope(MainActivity.this);
+
         FlybitsManager manager = new FlybitsManager.Builder(MainActivity.this)
             .addScope(pushScope)
-            .setDebug()
             .setAccount(new AnonymousIDP())
-            .addProjectID(FLYBITS_PROJECT_ID)
+            .setDebug()
             .build();
-            
+
         manager.connect();    
     }
 }

@@ -1,5 +1,5 @@
 ```gradle
 dependencies {
-    compile 'com.flybits.android:push:1.0.32'
+    compile 'com.flybits.v3:push:0.9.1'
 }
 ```

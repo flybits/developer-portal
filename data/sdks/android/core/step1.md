@@ -1,8 +1,11 @@
 ```gradle
-
-
-
-dependencies {
-  compile 'com.flybits.android:kernal:1.0.0'
+allprojects {
+    repositories {
+        maven{ url "https://maven.google.com" }
+        maven {
+            url  "http://dl.bintray.com/flybits-inc/v3"
+        }
+        jcenter()
+    }
 }
 ```
