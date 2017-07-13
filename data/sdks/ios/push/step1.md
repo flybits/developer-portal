@@ -4,7 +4,7 @@ platform :ios, '9.0'
 target 'MyApp' do
   use_frameworks!
   
-  pod 'PushSDK', '~> 4.0.0'  
+  pod 'FlybitsV3PushSDK', '~> 1.0.0'  
   
 end
 ```

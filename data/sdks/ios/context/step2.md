@@ -1,6 +1,6 @@
 ```swift
 import UIKit
-import ContextSDK
+import FlybitsContextSDK
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {

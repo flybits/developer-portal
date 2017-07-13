@@ -1,6 +1,6 @@
 ```swift
 import UIKit
-import PushSDK
+import FlybitsPushSDK
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {

@@ -4,7 +4,7 @@ platform :ios, '9.0'
 target 'MyApp' do
   use_frameworks!
   
-  pod 'ContextSDK', '~> 4.0.0'  
+  pod 'FlybitsV3ContextSDK', '~> 1.0.0'  
   
 end
 ```
