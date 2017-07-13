@@ -2,7 +2,7 @@
   "releases": {
     "android": [
       {
-        "timestamp": "1499965832",
+        "timestamp": "1499965832000",
         "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/android/1.0.0.md",
         "version": "1.0.0"
       }
