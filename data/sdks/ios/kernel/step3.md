@@ -1,6 +1,6 @@
 ```swift
 import UIKit
-import KernelSDK
+import FlybitsKernelSDK
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
