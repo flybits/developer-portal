@@ -2,24 +2,9 @@
   "releases": {
     "android": [
       {
-        "timestamp": "1483996914",
+        "timestamp": "1499965832",
         "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/android/1.0.0.md",
         "version": "1.0.0"
-      },
-      {
-        "timestamp": "1484074220879",
-        "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/android/2.7.2.md",
-        "version": "2.7.2"
-      },
-      {
-        "timestamp": "1484074255092",
-        "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/android/2.7.4.md",
-        "version": "2.7.4"
-      },
-      {
-        "timestamp": "1484074255092",
-        "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/android/2.7.4.md",
-        "version": "2.7.4"
       }
     ],
 
