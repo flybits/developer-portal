@@ -1,0 +1,200 @@
+{
+	'android': {
+		id: 'android',
+		sdks: {
+			'core' : {
+				id: 'core',
+				name: 'Kernel',
+				isActive: false,
+				description: 'The Kernel SDK contains all entities associated to Flybits Experiences and Content.',
+				content: [
+					{
+						description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+						type: 'markdown',
+						data: null,
+						isImage: false,
+						url: 'https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/android/2.7.4.md',
+					},
+					{
+						description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+						type: 'image',
+						isImage: true,
+						url: '/assets/images/ic_sdk-core.svg',
+					},
+					{
+						description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+						type: 'image',
+						isImage: true,
+						url: '/assets/images/ic_sdk-core.svg',
+					}
+				]
+			},
+			'push' : {
+				id: 'push',
+				name: 'Push',
+				isActive: false,
+				description: 'The Push SDK allows application to communicate directly to Flybits Push Portal and receive GCM/FCM push notifications.',
+				content: [
+					{
+						description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+						type: 'markdown',
+						url: 'https//..file.md',
+						order: 0
+					},
+					{
+						description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+						type: 'image',
+						url: 'https//..file.png',
+						order: 1
+					},
+					{
+						description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+						type: 'image',
+						url: 'https//..file.png',
+						order: 2
+					}
+				]
+			},
+			'context' : {
+				id: 'context',
+				name: 'Context',
+				isActive: false,
+				description: 'The Context SDK allows your application to report contextual information from your application and process Context Rules associated to your Flybits Project.',
+				content: [
+					{
+						description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+						type: 'markdown',
+						url: 'https//..file.md',
+						order: 0
+					},
+					{
+						description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+						type: 'image',
+						url: 'https//..file.png',
+						order: 1
+					},
+					{
+						description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+						type: 'image',
+						url: 'https//..file.png',
+						order: 2
+					}
+				]
+			}
+		}
+	},
+	'ios': {
+		id: 'ios',
+		sdks: {
+			'core' : {
+				id: 'core',
+				name: 'Core',
+				isActive: false,
+				description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+				content: [
+					{
+						description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+						type: 'markdown',
+						url: 'https//..file.md',
+						order: 0
+					},
+					{
+						description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+						type: 'image',
+						url: 'https//..file.png',
+						order: 1
+					},
+					{
+						description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+						type: 'image',
+						url: 'https//..file.png',
+						order: 2
+					}
+				]
+			},
+			'moment' : Ember.Object.create({
+				id: 'moment',
+				name: 'Moment',
+				isActive: false,
+				description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+				content: [
+					{
+						description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+						type: 'markdown',
+						url: 'https//..file.md',
+						order: 0
+					},
+					{
+						description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+						type: 'image',
+						url: 'https//..file.png',
+						order: 1
+					},
+					{
+						description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+						type: 'image',
+						url: 'https//..file.png',
+						order: 2
+					}
+				]
+			}
+		}
+	},
+	'javascript': {
+		id: 'javascript',
+		sdks: {
+			'core' : {
+				id: 'core',
+				name: 'Core',
+				isActive: false,
+				description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+				content: [
+					{
+						description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+						type: 'markdown',
+						url: 'https//..file.md',
+						order: 0
+					},
+					{
+						description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+						type: 'image',
+						url: 'https//..file.png',
+						order: 1
+					},
+					{
+						description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+						type: 'image',
+						url: 'https//..file.png',
+						order: 2
+					}
+				]
+			},
+			'moment' : {
+				id: 'moment',
+				name: 'Moment',
+				isActive: false,
+				description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+				content: [
+					{
+						description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+						type: 'markdown',
+						url: 'https//..file.md',
+						order: 0
+					},
+					{
+						description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+						type: 'image',
+						url: 'https//..file.png',
+						order: 1
+					},
+					{
+						description: 'This is the Core SDK, test information. Core SDK documentation can be found in the site. Hello World.',
+						type: 'image',
+						url: 'https//..file.png',
+						order: 2
+					}
+				]
+			}
+		}
+	},
+};
