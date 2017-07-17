@@ -3,13 +3,8 @@
     "android": [
       {
         "timestamp": "1499965832000",
-<<<<<<< HEAD
-        "url": "https://raw.githubusercontent.com/flybits/developer-portal/develop/data/releases/android/1.0.0.md",
-        "version": "1.0.0"
-=======
         "url": "https://raw.githubusercontent.com/flybits/developer-portal/master/data/releases/android/0.9.1.md",
         "version": "0.9.1"
->>>>>>> develop
       }
     ],
 
